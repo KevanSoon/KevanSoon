@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNtc3prYTNoZ3Q2OXZ2ajVlYmU0anJ2ZnBmNzkyeDBnbWRrN2YyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="300" alt="Coding Cat">
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevansoon/) 
 
